@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Visual Flow Creator
 
 You can use the [editor on GitHub](https://github.com/devhau/visualflow-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
