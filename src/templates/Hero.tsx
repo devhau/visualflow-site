@@ -12,13 +12,13 @@ const Hero = () => (
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
-          <Link href="https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template">
-            <a>GitHub</a>
+          <Link href="/">
+            <a>Home</a>
           </Link>
         </li>
         <li>
-          <Link href="/">
-            <a>Sign in</a>
+          <Link href="https://demo.visualflow.cc/">
+            <a>Demo</a>
           </Link>
         </li>
       </NavbarTwoColumns>
@@ -28,15 +28,15 @@ const Hero = () => (
       <HeroOneButton
         title={
           <>
-            {'The modern landing page for\n'}
-            <span className="text-primary-500">React developers</span>
+            {'Visual Flow Creator\n'}
+            <span className="text-primary-500">Javascript</span>
           </>
         }
-        description="The easiest way to build a React landing page in seconds."
+        description="Support for framework reactjs, vue, angular, html."
         button={
-          <Link href="https://creativedesignsguru.com/category/nextjs/">
+          <Link href="https://github.com/devhau/visualflow">
             <a>
-              <Button xl>Download Your Free Theme</Button>
+              <Button xl>View Source of visualflow</Button>
             </a>
           </Link>
         }
