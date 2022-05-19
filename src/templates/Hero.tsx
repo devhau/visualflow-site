@@ -36,7 +36,7 @@ const Hero = () => (
         button={
           <Link href="https://github.com/devhau/visualflow">
             <a>
-              <Button xl>View Source of visualflow</Button>
+              <Button xl>View Source</Button>
             </a>
           </Link>
         }
